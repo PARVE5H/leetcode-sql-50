@@ -23,6 +23,14 @@ The problems in this repository cover topics such as:
 * Common Table Expressions (CTEs)
 * Data transformation and analysis
 
+  
+## LeetCode Profile
+
+You can find my LeetCode profile and explore my problem-solving progress here:
+
+🔗 **[Visit my LeetCode Profile](https://leetcode.com/u/PARVE5H/)**
+
+
 ## Repository Structure
 
 ```text
